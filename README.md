@@ -1,7 +1,7 @@
 ## Hi I'm Shivani 👋
 
 <img src="https://komarev.com/ghpvc/?username=chiragha&style=flat-square&color=blue" alt=""/>
-![npm](https://img.shields.io/npm/dt/chiragha)
+
 
 <!--
 **chiragha/chiragha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
