@@ -19,7 +19,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
 
-** I regularly write articles on [Hashnode](https://chiragha.hashnode.dev/). -->
+I write articles on [Hashnode](https://chiragha.hashnode.dev/). 
 
 
 
