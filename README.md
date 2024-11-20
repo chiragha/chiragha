@@ -15,7 +15,7 @@
  
 </div>
 
-- :seedling: I’m currently learning Data Structures and Algorithms with Java and working on it.
+- :seedling: I’m currently learning React, Ajax, Jquery with API and working on it.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
 
