@@ -15,9 +15,9 @@
  
 </div>
 
-- :seedling: I’m currently learning React, Ajax, Jquery with API and working on it.
+- :seedling: I’m currently learning Node, Redux and working on it.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
+- :zap:  I’m currently learning Ajax, API.
 
 I write articles on [Hashnode](https://chiragha.hashnode.dev/). 
 
