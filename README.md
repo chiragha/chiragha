@@ -58,6 +58,7 @@
 
 ### 📊 GitHub Stats  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chiragha&theme=dark&background=000000)](https://git.io/streak-stats)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragha&layout=compact&theme=vision-friendly-dark)](https://github.com/chiragha/github-readme-stats)  
 
 ---
