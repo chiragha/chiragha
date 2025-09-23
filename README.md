@@ -8,7 +8,8 @@
 - ☁️ Learning **AWS (EC2, S3, Lambda)** and **CI/CD pipelines** (Docker).  
 - 🌀 Building scalable apps with **Next.js + TypeScript**.  
 - ✍️ I also write articles on [Hashnode](https://chiragha.hashnode.dev/).
--  How to reach me:  [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:sshivanissinha9@gmail.com).
+-  How to reach me:[Email Me](mailto:sshivanissinha9@gmail.com)
+.
   
 
 
