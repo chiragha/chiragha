@@ -72,16 +72,6 @@
 ### 📊 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chiragha&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragha&layout=compact&theme=vision-friendly-dark)](https://github.com/chiragha/github-readme-stats)
 
-## GitHub Overview
-![All Stats](https://github-readme-stats.vercel.app/api?username=chiragha&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragha&layout=compact&theme=radical)
-
-## My Pull Requests & Stars
-![Open PRs](https://img.shields.io/github/issues-pr/chiragha/YOUR_REPO_NAME?style=flat-square)
-![Stars](https://img.shields.io/github/stars/chiragha?style=flat-square)
-
 
 ## 💡 Learning & Goals
 - TypeScript | Redux | GraphQL | CI/CD | Advanced AWS Services  
