@@ -1,4 +1,8 @@
-## Hi, I'm Shivani Sinha👋  
+
+# Hi there 👋, I'm Shivani Sinha
+
+Welcome to my GitHub profile!  
+ 
 
 <img src="https://komarev.com/ghpvc/?username=chiragha&style=flat-square&color=blue" alt="Profile views"/>
 
@@ -73,8 +77,25 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chiragha&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragha&layout=compact&theme=vision-friendly-dark)](https://github.com/chiragha/github-readme-stats)
 
 
+---
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragha&show_icons=true&theme=radical&count_private=true)
+
+---
+
+
 ## 💡 Learning & Goals
 - TypeScript | Redux | GraphQL | CI/CD | Advanced AWS Services  
 - Build more **real-world full-stack projects** with deployment & testing
 
 ⭐ **Thanks for visiting!** 😄  
+
+
+
+
+
+
+
+
+
