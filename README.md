@@ -83,7 +83,7 @@ Welcome to my GitHub profile!
 
 
 ## 💡 Learning & Goals
-- TypeScript | Redux | GraphQL | CI/CD | Advanced AWS Services  
+- TypeScript | Redux | CI/CD | AWS Services  
 - Build more **real-world full-stack projects** with deployment & testing
 
 ⭐ **Thanks for visiting!** 😄  
