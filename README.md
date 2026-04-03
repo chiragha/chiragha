@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me  
 - 🌱 Currently learning **Node.js, Redux**, and building real-world projects.  
-- ⚡ Exploring **AJAX & API integration** to strengthen backend–frontend communication.  
+- ⚡ Exploring **API integration** to strengthen backend–frontend communication.  
 - ☁️ Learning **AWS (EC2, S3, Lambda)** and **CI/CD pipelines** (Docker).  
 - 🌀 Building scalable apps with **Next.js + TypeScript**.  
 - ✍️ I also write articles on [Hashnode](https://chiragha.hashnode.dev/).
