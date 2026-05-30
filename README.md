@@ -80,11 +80,11 @@ Welcome to my GitHub profile!
 
 ---
 
-🎯 Goals for 2026
-Build practical AI + Web Development projects
-Strengthen MERN Stack & Next.js skills
-Improve problem-solving and backend development
-Contribute to more scalable and real-world applications
+### 🎯 Goals for 2026
+* Build practical AI + Web Development projects
+* Strengthen MERN Stack & Next.js skills
+* Improve problem-solving and backend development
+* Contribute to more scalable and real-world applications
 
 ⭐ **Thanks for visiting!** 😄  
 
