@@ -6,14 +6,13 @@ Welcome to my GitHub profile!
 
 <img src="https://komarev.com/ghpvc/?username=chiragha&style=flat-square&color=blue" alt="Profile views"/>
 
-### 🚀 About Me  
-- 🌱 Currently learning **Node.js, Redux**, and building real-world projects.  
-- ⚡ Exploring **API integration** to strengthen backend–frontend communication.  
-- ☁️ Learning **AWS (EC2, S3, Lambda)** and **CI/CD pipelines** (Docker).  
-- 🌀 Building scalable apps with **Next.js + TypeScript**.  
-- ✍️ I also write articles on [Hashnode](https://chiragha.hashnode.dev/).
--  How to reach me:sshivanissinha9@gmail.com.
-.
+### 🚀 About Me
+* 💻 Web Developer with experience in **MySQL, React.js, Node.js, MongoDB, and JavaScript**.
+* 🌱 Currently learning **Generative AI, Python**, and exploring **LLMs, NLP, prompt engineering, and AI-powered applications**.
+* ⚡ Building **real-world full-stack projects** using the **MERN stack and Next.js**.
+* 🔗 Exploring **API integration and backend development** to build scalable applications.
+* 🚀 Continuously improving **problem-solving, DSA, and modern web technologies**.
+* 📫 Reach me at: **[sshivanissinha9@gmail.com](mailto:sshivanissinha9@gmail.com)**
   
 
 
@@ -81,10 +80,11 @@ Welcome to my GitHub profile!
 
 ---
 
-
-## 💡 Learning & Goals
-- TypeScript | Redux | CI/CD | AWS Services  
-- Build more **real-world full-stack projects** with deployment & testing
+🎯 Goals for 2026
+Build practical AI + Web Development projects
+Strengthen MERN Stack & Next.js skills
+Improve problem-solving and backend development
+Contribute to more scalable and real-world applications
 
 ⭐ **Thanks for visiting!** 😄  
 
